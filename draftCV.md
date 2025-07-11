@@ -6,7 +6,7 @@
 Lansing, Michigan
 rikki.g.reynolds@gmail.com
 
-<details open>
+<details>
 <summary>EDUCATION</summary>
 
 ___
