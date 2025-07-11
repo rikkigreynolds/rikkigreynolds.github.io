@@ -1,7 +1,7 @@
 ---
 title: "RGR"
 permalink: /
-theme: jekyll-theme-hacker
+layout: default
 ---
 
 This space is developing. This will become a space where I can share samples of my work in archives & public history.
