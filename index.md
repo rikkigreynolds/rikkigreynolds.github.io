@@ -1,5 +1,5 @@
 ---
-title: "RGR"
+title: Rikki Reynolds
 permalink: /
 layout: default
 ---
