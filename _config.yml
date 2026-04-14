@@ -1,0 +1,15 @@
+# Site settings
+title: rgr
+description: >- # This allows for a multi-line description
+  A brief description of your site that appears in search results and social previews.
+baseurl: 
+url: "https://rikkigreynolds.github.io" # The base hostname & protocol for your site
+
+# Theme settings
+theme: jekyll-theme-minimal # Or another supported theme like 'jekyll-theme-cayman'
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
